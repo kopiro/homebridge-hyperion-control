@@ -12,7 +12,7 @@ npm install -g homebridge-hyperion-service
 Example configuration:
 ```json
 {
-    "accessory": "HyperionControl",
+    "accessory": "HyperHDR",
     "name": "TV Backlight",
     "url": "http://192.168.0.123",
     "port": 8090,
